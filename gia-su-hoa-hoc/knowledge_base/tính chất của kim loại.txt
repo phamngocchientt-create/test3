@@ -1,0 +1,44 @@
+I. TÍNH CHẤT VẬT LÍ CỦA KIM LOẠI
+Kim loại có 4 tính chất vật lí chung bao gồm:
+- Tính dẻo: kim loại thường có tính dẻo, về tính dẻo: Au > Ag > Cu> Al >  Fe > Zn > Sn Tính dẻo của kim loại thường được ứng dụng để: rèn, cán, dập để chế tạo các chi tiết cơ khí hoặc đồ dùng. Dát mỏng làm lá kim loại, vỏ hộp, tấm kim loại, tôn,… Kéo sợi khi làm dây điện, đồ trang sức,….
+- Tính dẫn điện: kim loại thường có tính dẫn điện (có thể cho dòng điện chạy qua),  các nguyên tử kim loại thường liên kết với nhau tạo thành mạng lưới cố định các electron tự do bên ngoài dễ dàng tách ra di chuyển tự do quanh các “mắt” nguyên tử tạo thành biển electron tự do, các electron tự do này sẽ là các vệ tinh giúp truyền đi điện tích giúp kim loại có thể dẫn điện tốt  Về tính dẫn điện: Ag > Cu > Au > Al > Fe >  Sn > Pb.  Ứng dụng của tính dẫn điện của kim loại: làm dây dẫn điện, linh kiện dẫn điện, mạch điện tử, vi mạch,…
+- Tính dẫn nhiệt: Kim loại dẫn điện tốt cũng sẽ dẫn nhiệt tốt   cách giải thích của tính dẫn nhiệt gần giống với tính dẫn điện nhưng khác ở chỗ, các electron tự do khi được truyền nhiệt sẽ chuyển động nhanh hơn, khi va chạm vào nhau sẽ truyền nhiệt độ cho nhau, do đó nhiệt độ có thể truyền từ đầu này tới đầu kia của kim loại Về thứ tự tính dẫn nhiệt cũng như tính dẫn điện: Ag > Cu > Au > Al > Fe >  Sn > Pb. Ứng dụng của tính dẫn nhiệt là: dụng cụ đun nấu, bộ phận tản nhiệt, ống dẫn nhiệt, vật liệu dẫn nhiệt trong công nghiệp,….
+- Tính ánh kim: Kim loại thường sáng bóng khi có ánh sáng chiếu vào. Ứng dụng của tính chất này: làm trang sức, vật trang trí, …
+TÍNH CHẤT HÓA HỌC CỦA KIM LOẠI
+I. LÝ THUYẾT CẦN NHỚ
+1. Phản ứng của kim loại với phi kim
+a. Tác dụng với oxygen 
+Hầu hết các kim loại (trừ Au, Ag, Pt) tác dụng với oxygen ở nhiệt độ thường hoặc nhiệt độ cao tạo thành oxide (thường là oxide base)
+ 2Mg + O2        2MgO; 
+ 4Al + 3O2        2Al2O3
+b. Tác dụng với phi kim khác 
+Ở nhiệt độ cao, kim loại phản ứng với nhiều phi kim khác tạo thành muối. 
++ Với khí Cl2: tạo muối chloride (kim loại khi tác dụng với Cl  sẽ thể hiện hoá trị cao nhất)
+2Fe + 3Cl2      2FeCl3
+Cu + Cl2       CuCl2
++ Với S: khi đun nóng tạo muối sulfide (trừ Hg xảy ra ở nhiệt độ thường) 
+Cu + S        CuS  
+Hg + S   HgS                  
+2. Tác dụng với một số dung dịch acid (HCl, H2SO4 loãng, ….)
+Một số kim loại phản ứng với dung dịch acid ( H2SO4 loãng, HCl…) tạo thành muối và giải phóng khí hydrogen. 
+Fe + 2HCl ⎯⎯→ FeCl2 + H2      
+Chú ý: Với axit H2SO4 đặc, hoặc HNO3 thì phản ứng ko xảy ra theo cơ chế như trên mà sản phẩm tạo thành gồm muối  + sản phẩm khử (SO2, H2S, S, NO2, NO,..) + nước
+2Ag + 2H2SO4 (đặc, nóng)         Ag2SO4 + SO2↑ + 2H2O 
+2Al + 6H2SO4 (đặc, nóng)    Al2(SO4)3 + 3SO2↑ + 6H2O
+3Cu + 8HNO3  3Cu(NO3)2 + 2NO + 4H2O
+* Lưu ý: Fe, Al, Cr bị thụ động hoá trong H2SO4 và HNO3 đặc nguội. 
+3. Phản ứng của kim loại với dung dịch muối
+Kim loại từ Mg trở về sau trong dãy hoạt động hoá học của kim loại, kim loại đứng trước ( mạnh hơn) sẽ đẩy được kim loại đứng sau (yếu hơn) ra khỏi dung dịch muối.
+Ví dụ: Fe + CuSO4  FeSO4  + Cu
+Ag + CuSO4  Không xảy ra    
+Trường hợp với những kim loại trước Mg thì khi tác dụng với dung dịch muối của kim loại khác sẽ phản ứng như sau: 
+Đầu tiên kim loại sẽ tác dụng với nước trước tạo base, sau đó base tạo thành tác dụng với dung dịch muối tạo thành base mới + muối mới chứ ko tạo thành kim loại mới và muối mới như kim lọi đứng sau Mg. 
+4. Kim loại tác dụng với nước
+Các kim loại (Li, K, Ba, Ca, Na) tác dụng được với nước ở nhiệt độ thường tạo dung dịch base + H2
+VD: 2Na + 2H2O  2NaOH + H2 
+	Ba + 2H2O  Ba(OH)2  + H2
+Các kim loại từ Mg -> Pb (hoạt động trung bình) tác dụng được với hơi nước ở nhiệt độ cao tạo oxide +H2
+VD: Mg + H2O(hơi)  MgO + H2
+Zn  + H2O(hơi)  ZnO + H2 
+
+
