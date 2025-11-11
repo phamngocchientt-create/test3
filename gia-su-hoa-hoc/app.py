@@ -95,7 +95,7 @@ def build_semantic_index(knowledge_texts):
 
 semantic_index = build_semantic_index(knowledge_texts)
 
-def search_knowledge_semantic(query, top_k=5): # Đã tăng top_k lên 5 để đảm bảo lấy đủ ngữ cảnh
+def search_knowledge_semantic(query, top_k=6): # Đã tăng top_k lên 5 để đảm bảo lấy đủ ngữ cảnh
     """Tìm kiếm các đoạn tài liệu liên quan nhất."""
     if not semantic_index:
         return None
