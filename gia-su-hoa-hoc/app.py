@@ -110,7 +110,7 @@ def search_knowledge_semantic(query, top_k=6): # Đã tăng top_k lên 5 để �
     results = []
     for idx, score in zip(I[0], D[0]):
         # Ngưỡng điểm tương đồng: loại bỏ kết quả kém liên quan
-        if score < 0.25:
+        if score < 0.1:
             continue
         results.append(f"📘 [Tài liệu: {meta[idx]}]\n{chunks[idx]}")
     return "\n\n---\n".join(results) if results else None
